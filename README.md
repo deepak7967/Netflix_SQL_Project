@@ -110,3 +110,8 @@ select
 unnest(string_to_array(casts,',')) as castss , count(*) as total_content
 from netflix where country = 'India' group by 1 order by 2 desc ;
 ```
+
+#### Tech used
+Language: SQL
+Tools: PostgreSQL
+Dataset: Netflix titles dataset (CSV)
