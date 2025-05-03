@@ -1,3 +1,3 @@
 # Netflix_SQL_Project
 
-![netflix_logo](https://github.com/deepak7967/Netflix_SQL_Project/commit/d83f998996ec94a629366d3dfa90b7e2a957ef1c)
+![netflix_logo](https://github.com/deepak7967/Netflix_SQL_Project/blob/main/net.jpg)
