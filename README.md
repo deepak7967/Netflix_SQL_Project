@@ -11,7 +11,13 @@ This project involves the analysis of netflix's publicly avilable dataset . The 
 * Get content added in last 5 yrs
 * To find movies directed by specific person
 * Top actors who did highest number of movies or tv shows
-* movies released in specific year
+* Movies released in specific year
+* To find the top 10 actors who appeared in the highest number of movies produced in India .
+* Find the top 5 countries with the most content on Netflix .
+*  Count the number of content items in each genre
+*  List all movies that are documentaries
+
+
 
 ### Schema
 ```sql
