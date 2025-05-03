@@ -9,7 +9,9 @@ This project involves the analysis of netflix's publicly avilable dataset . The 
 
 * Analyze the distribution of content types (movies vs TV shows)
 * Get content added in last 5 yrs
-* To find
+* To find movies directed by specific person
+* Top actors who did highest number of movies or tv shows
+* movies released in specific year
 
 ### Schema
 ```sql
